@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* header section */
+.form-nav {
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.form-nav span {
+    border-radius: 50px;
+}
+.form-nav input {
+    border-radius: 50px;
+    background-color: ;
+}
+.box-shadow {
+    box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+    padding: 0 20px;
+}
+
+.mb-3 {
+    height: 4.3rem;
+}
+
+.nav li a {
+    color: #2d2f31;
+    text-decoration: none;
+    padding: 0 14px;
+}
+
+.ahover:hover {
+    color: #5624d0;
+}
+
+
+
+
+
+/* header section */
